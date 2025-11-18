@@ -1,0 +1,14 @@
+# виртуальные окружения
+venv/
+env/
+news_venv/
+news_env/
+
+# кеши и мусор
+*.pyc
+__pycache__/
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
