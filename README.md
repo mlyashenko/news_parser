@@ -43,7 +43,7 @@ news_parser/
 
 ### 1️⃣ Клонирование проекта
 ```bash
-git clone https://github.com/USERNAME/news_parser.git
+git clone https://github.com/mlyashenko/news_parser.git
 cd news_parser
 ```
 
