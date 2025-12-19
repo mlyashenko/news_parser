@@ -49,7 +49,7 @@ cd news_parser
 
 ### 2️⃣ Создание виртуального окружения
 ```bash
-python3 -m venv news_venv
+python -m venv news_venv
 ```
 
 ### 3️⃣ Активация окружения
